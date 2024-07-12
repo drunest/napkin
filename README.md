@@ -57,6 +57,3 @@ cargo watch -x run
 
 We would love for you to contribute to `Project Napkin` and help make it even better than it is today! Check out our [Contributing Guide](CONTRIBUTING.md) to get started.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
